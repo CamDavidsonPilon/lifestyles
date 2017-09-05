@@ -15,10 +15,13 @@ lifestyles is a Python package for performing conjoint analysis. What is conjoin
 There are some drawbacks to this survey design. We have isolated the attributes of the lemonade, so participants must also compare in isolation. This isn't how consumers make choices. Instead they compare products holistically. Compare the above survey to this instead:
 
 > Q1. Which lemonade would you prefer to purchase
-> - [ ] Medium sugar, ice cold and high intensity flavour
+> - [ ] Medium sugar, ice cold and strong lemon flavour
 > - [ ] No sugar, ice cold and mild lemon and mild mint flavour
 >  
-> Q2. On a scale of 1 to 10, how likely are you to purchase the following lemonade? Warm, honey-sweetened, with strong lemon flavour. 
+> Q2. On a scale of 1 to 10, how likely are you to purchase the following lemonade? 
+> 
+> Warm, honey-sweetened, with strong lemon flavour. 
+> 
 > 1 ♢ ♢ ♢ ♢ ♢ ♢ ♢ ♢ ♢ ♢ 10
 
 
