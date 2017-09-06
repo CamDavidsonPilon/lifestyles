@@ -1,4 +1,4 @@
-# lifestyles  
+![lifestyles_logo](https://imgur.com/SjZBq1V.png) 
 
 lifestyles is a Python package for performing conjoint analysis. What is conjoint analysis? I'm glad you asked! Conjoint analysis is an alternative survey analysis technique. Instead of asking survey partcipants about how they feel about specific characteristics, instead the particpants are asked to evaluate holistically. For example, suppose you are interested in creating a new lemonade, and want to understand better what your potential customer's preferences are. We _could_ design a survey like:
 
