@@ -17,7 +17,7 @@ third_choice = profiles.loc[comparisons['Profile3']]
 
 with pm.Model() as hierarchical_model:
 
-    weights = pm.Normal("weights", 0, sd=10., shape=(profiles.shape[1], 1)) # (7, 1)
+    weights = pm.Normal("weights", 0, sd=10., shape=(profiles.shape[1], 1))
 
     probs = tt.nnet.softmax(tt.stack([
              tt.dot(first_choice, weights),
