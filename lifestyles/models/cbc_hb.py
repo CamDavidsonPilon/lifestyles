@@ -16,7 +16,6 @@ def _create_observation_variable(individual_selections, choices, partsworth):
     `partsworth` is a slice of PyMC3 matrix. It represents the partsworth variables of a individual. Size is (n_profiles,)
 
     This computes the values exp(partsworth * profile_j) / sum[ exp(partsworth * profile_k ] for all j.
-
     """
     nan_mask = pd.notnull(individual_selections)
     return pm.Categorical("Obs_%s" % individual_selections.name,
