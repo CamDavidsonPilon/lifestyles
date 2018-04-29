@@ -41,6 +41,7 @@ This library is a work-in-progress, and alpha-stage development.
  - [Hierarchical Bayes Conjoint Analysis: Recovery of Partworth Heterogeneity from Reduced Experimental Designs. Peter J. Lenk; Wayne S](http://webuser.bus.umich.edu/plenk/HB%20Conjoint%20Lenk%20DeSarbo%20Green%20Young%20MS%201996.pdf).
  - [Software for Hierarchical Bayes
 Estimation for CBC Data](https://www.sawtoothsoftware.com/download/ssiweb/CBCHB_Manual.pdf).
+ - [Case study into university pricing](https://conjoint.online/2017/04/20/pricing-case-study/)
 
 
 
